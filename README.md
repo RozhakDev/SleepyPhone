@@ -6,7 +6,7 @@ Aplikasi ini bekerja dengan memantau aplikasi yang aktif di latar depan. Ketika 
 
 ## 🎬 Preview
 
-![SleepyPhone Preview](demo_sleepyphone.gif)
+![SleepyPhone Preview](https://github.com/user-attachments/assets/20f1b800-41c2-46b4-a559-e5e8392f5ed8)
 
 ## ✨ Fitur Utama
 
